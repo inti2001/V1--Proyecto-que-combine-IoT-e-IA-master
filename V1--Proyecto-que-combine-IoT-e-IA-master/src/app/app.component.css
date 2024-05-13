@@ -1,0 +1,2677 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 100%;
+
+}.landingpage-xwG {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #eeeeee;
+}
+
+
+
+.landingpage-xwG .auto-group-83re-VAW {
+  width: 100%;
+  height: 1080px;
+  position: relative;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/bg.png');
+  flex-shrink: 0;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.landingpage-xwG .auto-group-83re-VAW .center .clevertrip-d1p {
+  width: 100%;
+  height: 100px; 
+  position: absolute;
+  top: 30rem;
+  text-align: center;
+  font-size: 9rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  letter-spacing: 2rem;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  -webkit-animation: fade-in-bottom 2.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+    animation: fade-in-bottom 2.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+.landingpage-xwG .auto-group-83re-VAW .center .auto-group-idpl-6RC {
+  width: 67.207rem;
+  height: 3.1rem;
+  position: absolute;
+  top: 41rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.landingpage-xwG .auto-group-83re-VAW .auto-group-idpl-6RC .tu-compaero-de-viaje-Kok {
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  letter-spacing: 0.5rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  -webkit-animation: fade-in-bottom 2.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+    animation: fade-in-bottom 2.5s cubic-bezier(0.550, 0.085, 0.680, 0.530) both;
+}
+
+.landingpage-xwG .auto-group-83re-VAW .logofinal-3-uGA {
+  width: 10.5rem;
+  height: 13rem;
+  position: absolute;
+  top: 18rem;
+  object-fit: cover;
+  vertical-align: top;
+  -webkit-animation: puff-in-center 3s both;
+	        animation: puff-in-center 3s both;
+}
+.landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ {
+  width: 20%;
+  height: 2.5rem;
+  position: absolute;
+  left: 75%;
+  top: 3rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items:start;
+}
+.landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .registrarse-kGn {
+
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 150;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+
+}
+.landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .ingresar-gAS {
+  text-align: center;
+  font-size: 1rem;
+  font-weight: 150;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+
+}
+.landingpage-xwG .auto-group-83re-VAW .google-cJz {
+  width: 1.6338rem;
+  height: 1.6667rem;
+  position: absolute;
+  top: 3rem;
+  left: 5%;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .auto-group-83re-VAW{
+    height: 900px;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .center .clevertrip-d1p{
+    top: 27rem;
+    font-size: 6rem;
+    letter-spacing: 1.5rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .logofinal-3-uGA{
+    top: 16rem;
+    width: 9.5rem;
+    height: 12rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .center .auto-group-idpl-6RC{
+    top: 34rem;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-idpl-6RC .tu-compaero-de-viaje-Kok{
+    font-size: 1.5rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .registrarse-kGn {
+    font-size: 0.8rem;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .ingresar-gAS {
+    font-size: 0.8rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .google-cJz {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+
+}
+
+@media (max-width: 991px) {
+  .landingpage-xwG .auto-group-83re-VAW{
+    height: 800px;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .center .clevertrip-d1p{
+    top: 25rem;
+    font-size: 5rem;
+    letter-spacing: 1rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .logofinal-3-uGA{
+    top: 14rem;
+    width: 8.5rem;
+    height: 11rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .center .auto-group-idpl-6RC{
+    top: 31rem;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-idpl-6RC .tu-compaero-de-viaje-Kok{
+    font-size: 1.2rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .registrarse-kGn {
+    font-size: 0.7rem;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .ingresar-gAS {
+    font-size: 0.7rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .auto-group-83re-VAW{
+    height: 700px;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .center .clevertrip-d1p{
+    top: 22rem;
+    font-size: 4rem;
+    letter-spacing: 0.5rem;
+    
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .logofinal-3-uGA{
+    top: 12rem;
+    width: 7.5rem;
+    height: 10rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .center .auto-group-idpl-6RC{
+    top: 26rem;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-idpl-6RC .tu-compaero-de-viaje-Kok{
+    font-size: 0.7rem;
+    letter-spacing: 0.3rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ {
+    left: 72%;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .registrarse-kGn {
+    font-size: 0.6rem;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .ingresar-gAS {
+    font-size: 0.6rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .google-cJz {
+    width: 1.2rem;
+    height: 1.2rem;
+  }
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .auto-group-83re-VAW{
+    height: 500px;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .center .clevertrip-d1p{
+    top: 17rem;
+    font-size: 3rem;
+    letter-spacing: 0.5rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .logofinal-3-uGA{
+    top: 9rem;
+    width: 5.5rem;
+    height: 8rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .center .auto-group-idpl-6RC{
+    top: 19.5rem;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-idpl-6RC .tu-compaero-de-viaje-Kok{
+    font-size: 0.5rem;
+    letter-spacing: 0.3rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ {
+    left: 70%;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .registrarse-kGn {
+    font-size: 0.5rem;
+  }
+  .landingpage-xwG .auto-group-83re-VAW .auto-group-2hvg-RVQ .ingresar-gAS {
+    font-size: 0.5rem;
+  }
+
+  .landingpage-xwG .auto-group-83re-VAW .google-cJz {
+    width: 0.9rem;
+    height: 0.9rem;
+  }
+}
+
+
+
+
+
+.landingpage-xwG .frame-1-Jhc {
+  margin-bottom: 5rem;
+  box-sizing: border-box;
+  width: 100%;
+  justify-content:center;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #e6e6e6;
+  flex-shrink: 0;
+  height: 5.1rem;
+}
+.landingpage-xwG .frame-1-Jhc .nosotros-16E {
+  margin-right: 2%;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-1-Jhc .contacto-vDC {
+  margin-right: 2%;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+  
+}
+.landingpage-xwG .frame-1-Jhc .logofinal-4-qLA {
+  width: 3.1rem;
+  height: 3.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-1-Jhc .registrarse-B98 {
+  margin-left: 2%;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-1-Jhc .ingresar-tpE {
+  margin-left: 2%;
+  margin-bottom: 0;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .frame-1-Jhc .nosotros-16E {font-size: 1.1rem;}
+  .landingpage-xwG .frame-1-Jhc .contacto-vDC {font-size: 1.1rem;}
+  .landingpage-xwG .frame-1-Jhc .registrarse-B98 {font-size: 1.1rem;}
+  .landingpage-xwG .frame-1-Jhc .ingresar-tpE {font-size: 1.1rem;}
+
+}
+
+@media (max-width: 991px) {
+  .landingpage-xwG .frame-1-Jhc .nosotros-16E {font-size: 1rem;}
+  .landingpage-xwG .frame-1-Jhc .contacto-vDC {font-size: 1rem;}
+  .landingpage-xwG .frame-1-Jhc .registrarse-B98 {font-size: 1rem;}
+  .landingpage-xwG .frame-1-Jhc .ingresar-tpE {font-size: 1rem;}
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .frame-1-Jhc .nosotros-16E {font-size: 0.8rem;}
+  .landingpage-xwG .frame-1-Jhc .contacto-vDC {font-size: 0.8rem;}
+  .landingpage-xwG .frame-1-Jhc .registrarse-B98 {font-size: 0.8rem;}
+  .landingpage-xwG .frame-1-Jhc .ingresar-tpE {font-size: 0.8rem;}
+  .landingpage-xwG .frame-1-Jhc .logofinal-4-qLA {
+    width: 1.8rem;
+    height: 2.1rem;
+  }
+  .landingpage-xwG .frame-1-Jhc {height: 4.3rem;}
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .frame-1-Jhc .nosotros-16E {font-size: 0.5rem;}
+  .landingpage-xwG .frame-1-Jhc .contacto-vDC {font-size: 0.5rem;}
+  .landingpage-xwG .frame-1-Jhc .registrarse-B98 {font-size: 0.5rem;}
+  .landingpage-xwG .frame-1-Jhc .ingresar-tpE {font-size: 0.5rem;}
+  .landingpage-xwG .frame-1-Jhc {height: 3.6rem;}
+}
+
+
+
+
+
+
+.landingpage-xwG .frame-181-bTk {
+
+  width: 100%;
+  height: 40.5rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-181-bTk .frame-182-9EN {
+  box-sizing: border-box;
+  width: 100%;
+  height: 30rem;
+  position: absolute;
+  left: 0;
+  top: 5rem;
+  overflow: hidden;
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  background-color: #e6e6e6;
+  border-radius: 1rem;
+}
+.landingpage-xwG .frame-181-bTk .frame-182-9EN .trabajamos-para-ofrecerte-la-mejor-experiencia-eB8 {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  font-size: 1.7rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+
+  flex-shrink: 0;
+}
+
+.landingpage-xwG .frame-181-bTk .frame-182-9EN .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-TuG {
+  margin-bottom: 4rem;
+  max-width: 66.5rem;
+  font-size: 1.3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+  text-align: justify;
+}
+.landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg {
+  margin: 0rem 0rem 0rem 0rem;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-shrink: 0;
+  width: 100%;
+  flex-wrap: wrap;
+}
+.landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .aun-no-estas-con-nosotros-pNS {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .frame-183-wT4 {
+  width: auto;
+  height: 2rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  text-decoration-line: underline;
+  color: #003566;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-181-bTk .image-10-c3Q {
+  width: 35%;
+  height: 65%;
+  position: absolute;
+  left: 10%;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+}
+
+.text{
+  margin-left: 50%;
+  margin-top: 5rem;
+  width: 40%;
+}
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .trabajamos-para-ofrecerte-la-mejor-experiencia-eB8 {
+    font-size: 1.3rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-TuG {
+    font-size: 1rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .aun-no-estas-con-nosotros-pNS {
+    font-size: 1.3rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .frame-183-wT4 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .trabajamos-para-ofrecerte-la-mejor-experiencia-eB8 {
+    font-size: 1.2rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .aun-no-estas-con-nosotros-pNS {
+    font-size: 1.2rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .frame-183-wT4 {
+    font-size: 1.1rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .frame-181-bTk .image-10-c3Q {
+    width: 50%;
+    height: 30%;
+    left: 25%;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN {
+    justify-content: center;
+    align-items: center;
+    top: 9rem;
+  }
+  .text{
+    top: 5rem;
+    margin: 0;
+    width: 60%;
+  }
+
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .trabajamos-para-ofrecerte-la-mejor-experiencia-eB8 {
+    font-size: 1.1rem;
+    text-align: center;
+  }
+
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-TuG {
+    font-size: 0.8rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .aun-no-estas-con-nosotros-pNS {
+    font-size: 1.1rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .frame-183-wT4 {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .trabajamos-para-ofrecerte-la-mejor-experiencia-eB8 {
+    font-size: 0.9rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-TuG {
+    font-size: 0.7rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .aun-no-estas-con-nosotros-pNS {
+    font-size: 0.9rem;
+  }
+  .landingpage-xwG .frame-181-bTk .frame-182-9EN .auto-group-bv7k-tjg .frame-183-wT4 {
+    font-size: 0.8rem;
+  }
+}
+
+
+
+
+
+
+.landingpage-xwG .frame-180-Xw4 {
+  margin-bottom: 5rem;
+  width: 100%;
+  height: 18rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-around;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 {
+  box-sizing: border-box;
+  width: 20%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.5rem 0.7rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #c900bc;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .screen-search-desktop-MfC {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .busquedas-Uzi {
+  margin-bottom: 1rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .saber-mas--1ze {
+  margin-right: 0.2rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+.landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ {
+  box-sizing: border-box;
+  width: 20%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.5rem 0.7rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #8800ff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .airplanemode-active-294 {
+  width: 6rem;
+  height: 6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .planes-de-viaje-LvS {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .saber-mas--UWr {
+  margin-right: 0.1rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+.landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W {
+  box-sizing: border-box;
+  width: 20%;
+  height: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0.5rem 0.7rem 3rem rgba(0, 0, 0, 0.1000000015);
+  background-color: #c900bc;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .verified-UQN {
+  width: 6rem;
+  height: 6rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .recomendaciones-CrA {
+  margin-bottom: 0.9rem;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .saber-mas--LSa {
+  margin-right: 0.3rem;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .frame-180-Xw4{
+    height: 15rem;
+  }
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .screen-search-desktop-MfC {width: 5rem; height: 5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .busquedas-Uzi {font-size: 1.5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .saber-mas--1ze {font-size: 0.9rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .airplanemode-active-294 {width: 5rem; height: 5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .planes-de-viaje-LvS {font-size: 1.5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .saber-mas--UWr {font-size: 0.9rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .verified-UQN {width: 5rem; height: 5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .recomendaciones-CrA {font-size: 1.4rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .saber-mas--LSa {font-size: 0.9rem;}
+}
+
+
+@media (max-width: 991px) {
+  .landingpage-xwG .frame-180-Xw4{
+    height: 12rem;
+  }
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .screen-search-desktop-MfC {width: 4rem; height: 4rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .busquedas-Uzi {font-size: 1.2rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .saber-mas--1ze {font-size: 0.8rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .airplanemode-active-294 {width: 4rem; height: 4rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .planes-de-viaje-LvS {font-size: 1.2rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .saber-mas--UWr {font-size: 0.8rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .verified-UQN {width: 4rem; height: 4rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .recomendaciones-CrA {font-size: 1.1rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .saber-mas--LSa {font-size: 0.8rem;}
+}
+
+@media (max-width: 815px) {
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .screen-search-desktop-MfC {width: 3.6rem; height: 3.6rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .busquedas-Uzi {font-size: 1.1rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .saber-mas--1ze {font-size: 0.8rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .airplanemode-active-294 {width: 3.6rem; height: 3.6rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .planes-de-viaje-LvS {font-size: 1.1rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .saber-mas--UWr {font-size: 0.8rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .verified-UQN {width: 3.6rem; height: 3.6rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .recomendaciones-CrA {font-size: 1rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .saber-mas--LSa {font-size: 0.8rem;}
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .frame-180-Xw4{
+    height: 9rem;
+    margin-bottom: 3rem;
+    margin-top: 1rem;
+  }
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .screen-search-desktop-MfC {width: 3rem; height: 3rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .busquedas-Uzi {font-size: 0.9rem; margin-bottom: 0.3rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .saber-mas--1ze {font-size: 0.6rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .airplanemode-active-294 {width: 3rem; height: 3rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .planes-de-viaje-LvS {font-size: 0.9rem; margin-bottom: 0.3rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .saber-mas--UWr {font-size: 0.6rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .verified-UQN {width: 3rem; height: 3rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .recomendaciones-CrA {font-size: 0.8rem; margin-bottom: 0.3rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .saber-mas--LSa {font-size: 0.6rem;}
+}
+
+@media (max-width: 600px) {
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .screen-search-desktop-MfC {width: 2.8rem; height: 2.8rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .busquedas-Uzi {font-size: 0.8rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .saber-mas--1ze {font-size: 0.6rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .airplanemode-active-294 {width: 2.8rem; height: 2.8rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .planes-de-viaje-LvS {font-size: 0.8rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .saber-mas--UWr {font-size: 0.6rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .verified-UQN {width: 2.8rem; height: 2.8rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .recomendaciones-CrA {font-size: 0.7rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .saber-mas--LSa {font-size: 0.6rem;}
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .frame-180-Xw4{
+    height: 7rem;
+  }
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .screen-search-desktop-MfC {width: 2.5rem; height: 2.5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .busquedas-Uzi {font-size: 0.6rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-75wc-So8 .saber-mas--1ze {font-size: 0.4rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .airplanemode-active-294 {width: 2.5rem; height: 2.5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .planes-de-viaje-LvS {font-size: 0.6rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-zb8r-6WJ .saber-mas--UWr {font-size: 0.4rem;}
+
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .verified-UQN {width: 2.5rem; height: 2.5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .recomendaciones-CrA {font-size: 0.5rem;}
+  .landingpage-xwG .frame-180-Xw4 .auto-group-2uve-Z2W .saber-mas--LSa {font-size: 0.4rem;}
+}
+
+
+
+
+
+
+
+
+.landingpage-xwG .frame-184-pce {
+  box-sizing: border-box;
+  height: 20rem;
+  padding: 5% 15% 5% 15%;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/abstract.webp');
+  background-color: #cecece;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-184-pce .rpido-y-sencillo-Z4S {
+  margin: 0rem 0rem 0rem 0rem;
+  text-align: center;
+  font-size: 3.3rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-184-pce .con-nuestra-amigable-interfaz-descubrir-tus-lugares-favoritos-nunca-habia-sido-tan-fcil-rpE {
+  margin-top: 2rem;
+  text-align: center;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-184-pce .frame-185-MW6 {
+  width: 30%;
+  height: 3rem;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  font-size: 1.1rem;
+  font-weight: 300;
+  line-height: 1.2125;
+  color: #eeeeee;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #003566;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .frame-184-pce{
+    height: 21rem;
+  }
+  .landingpage-xwG .frame-184-pce .rpido-y-sencillo-Z4S{
+    font-size: 3rem;
+  }
+  .landingpage-xwG .frame-184-pce .con-nuestra-amigable-interfaz-descubrir-tus-lugares-favoritos-nunca-habia-sido-tan-fcil-rpE {
+    font-size: 1rem;
+    margin-top: 1.5rem;
+  }
+  .landingpage-xwG .frame-184-pce .frame-185-MW6 {font-size: 0.9rem;}
+}
+
+@media (max-width: 991px) {
+  .landingpage-xwG .frame-184-pce{
+    height: 18rem;
+  }
+  .landingpage-xwG .frame-184-pce .rpido-y-sencillo-Z4S {
+    font-size: 2.4rem;
+  }
+  .landingpage-xwG .frame-184-pce .con-nuestra-amigable-interfaz-descubrir-tus-lugares-favoritos-nunca-habia-sido-tan-fcil-rpE {
+    font-size: 0.7rem;
+    margin-top: 1.2rem;
+  }
+  .landingpage-xwG .frame-184-pce .frame-185-MW6 {font-size: 0.7rem;}
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .frame-184-pce{
+    height: 15rem;
+  }
+  .landingpage-xwG .frame-184-pce .rpido-y-sencillo-Z4S{
+    font-size: 2.2rem;
+  }
+  .landingpage-xwG .frame-184-pce .con-nuestra-amigable-interfaz-descubrir-tus-lugares-favoritos-nunca-habia-sido-tan-fcil-rpE {
+    margin-top: 0.9rem;
+    font-size: 0.6rem;
+  }
+  .landingpage-xwG .frame-184-pce .frame-185-MW6 {font-size: 0.5rem; height: 2rem;}
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .frame-184-pce{
+    height: 11rem;
+  }
+  .landingpage-xwG .frame-184-pce .rpido-y-sencillo-Z4S{
+    font-size: 1.8rem;
+  }
+  .landingpage-xwG .frame-184-pce .con-nuestra-amigable-interfaz-descubrir-tus-lugares-favoritos-nunca-habia-sido-tan-fcil-rpE {
+    font-size: 0.5rem;
+    margin-top: 0.7rem;
+  }
+  .landingpage-xwG .frame-184-pce .frame-185-MW6 {font-size: 0.4rem; height: 1.8rem;}
+}
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv {
+  box-sizing: border-box;
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS {
+  margin-left: 8rem;
+  width: 100%;
+  height: 50rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve {
+  width: 100%;
+  height: 50rem;
+  position: absolute;
+  left: 7%;
+  top: 0;
+  overflow: hidden;
+  background-color: #e7e7e7;
+}
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi {
+  box-sizing: border-box;
+  padding-left: 5%;
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+  width: 90%;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e7e7e7;
+}
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .eai-BTk {
+
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL {
+  margin-top: 3rem;
+  margin-left: 10%;
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+  justify-content: space-around;
+  width: 60%;
+}
+
+.contIconText{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-2UN {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-y8i {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-iMC {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-fXL {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-26z {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .basicos-6Mk {
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .turistico-2FQ {
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .actividades-xuk {
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .comida-WRU {
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .hospedaje-f3U {
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .personaliza-tus-resultados-con-nuestros-filtros-QFx {
+  margin-top: 5rem;;
+  text-align: center;
+  font-size: 1.8rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv {
+  margin-left: 5%;
+  margin-top: 3rem;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-around;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv  .vector-Xzn {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .edit-location-alt-4jp {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-vX8 {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-npE {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-jDg {
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC {
+  box-sizing: border-box;
+  height: 2rem;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-YPg.png');
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .vector-Ywp {
+  width: 1rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .auto-group-1c1u-UqU {
+  width: 2rem;
+  height: 1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .radio-Kr6 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .ubicacion-personalizada-r5L {
+  max-width: 15.4rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .mejor-calificados-ZEe {
+  max-width: 12.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .con-contacto-gKG {
+  max-width: 10.3rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .abierto-ahora-QFG {
+  max-width: 8.1rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .sub-catgoria-j2e {
+  max-width: 9.4rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN {
+  box-sizing: border-box;
+  width: 28%;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #003566;
+  border-radius: 10rem 2rem 2rem 10rem;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn {
+  margin-right: 2rem;
+  margin-left: 5%;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  height: auto;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-tfx.png');
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn .vector-gMC {
+  width: 5.5rem;
+  height: 5.5rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .busquedas-pTQ {
+  margin: 0;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+@media (max-width: 1800px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .busquedas-pTQ {
+    font-size: 2rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn .vector-gMC {
+    width: 3.5rem;
+    height: 3.5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN {
+    height: 9rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn {margin-right: 1rem;}
+}
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi {height: 40rem; padding-top: 7rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve {height: 40rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS {height: 40rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .busquedas-pTQ {
+    font-size: 1.6rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn .vector-gMC {
+    width: 2.5rem;
+    height: 2.5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN {
+    height: 7rem;  top: 7rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn {
+    margin-right: 1rem;
+    padding: 1rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-2UN, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-y8i, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-iMC, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-fXL, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-26z,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv  .vector-Xzn,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .edit-location-alt-4jp,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-vX8,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-npE,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-jDg{
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC {height: 1.5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .vector-Ywp {
+    width: 0.7rem;
+    height: 0.7rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .auto-group-1c1u-UqU {
+    width: 1.5rem;
+    height: 0.7rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .basicos-6Mk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .turistico-2FQ,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .actividades-xuk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .comida-WRU,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .hospedaje-f3U,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .radio-Kr6,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .ubicacion-personalizada-r5L,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .mejor-calificados-ZEe,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .con-contacto-gKG,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .abierto-ahora-QFG,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .sub-catgoria-j2e {
+    font-size: 1rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .eai-BTk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .personaliza-tus-resultados-con-nuestros-filtros-QFx {font-size: 1.3rem;}
+}
+
+@media (max-width: 991px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi {height: 32rem; padding-top: 5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve {height: 32rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS {height: 32rem;}
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .busquedas-pTQ {
+    font-size: 1.3rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn .vector-gMC {
+    width: 2.2rem;
+    height: 2.2rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN {
+    height: 5rem; top:5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn {
+    margin-right: 0.5rem;
+    padding: 0.5rem;}
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-2UN, 
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-y8i, 
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-iMC, 
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-fXL, 
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-26z,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv  .vector-Xzn,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .edit-location-alt-4jp,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-vX8,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-npE,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-jDg{
+      width: 1.2rem;
+      height: 1.2rem;
+    }
+  
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC {height: 1.5rem;}
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .vector-Ywp {
+      width: 0.6rem;
+      height: 0.6rem;
+    }
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .auto-group-1c1u-UqU {
+      width: 1.2rem;
+      height: 0.6rem;
+    }
+  
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .basicos-6Mk,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .turistico-2FQ,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .actividades-xuk,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .comida-WRU,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .hospedaje-f3U,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .radio-Kr6,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .ubicacion-personalizada-r5L,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .mejor-calificados-ZEe,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .con-contacto-gKG,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .abierto-ahora-QFG,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .sub-catgoria-j2e {
+      font-size: 0.8rem;
+    }
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .eai-BTk,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .personaliza-tus-resultados-con-nuestros-filtros-QFx {font-size: 1rem;}
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi {height: 20rem; padding-top: 4rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve {height: 20rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS {height: 20rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .busquedas-pTQ {
+    font-size: 0.8rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn .vector-gMC {
+    width: 1.5rem;
+    height: 1.5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN {
+    height: 4rem; top: 4rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn {
+    margin-right: 0.5rem;
+    padding: 0.5rem;}
+
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-2UN, 
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-y8i, 
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-iMC, 
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-fXL, 
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .vector-26z,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv  .vector-Xzn,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .edit-location-alt-4jp,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-vX8,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-npE,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .vector-jDg{
+      width: 0.9rem;
+      height: 0.9rem;
+    }
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC {height: 0.9rem;}
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .vector-Ywp {
+      width: 0.4rem;
+      height: 0.4rem;
+    }
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .auto-group-1c1u-UqU {
+      width: 0.9rem;
+      height: 0.4rem;
+    }
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .basicos-6Mk,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .turistico-2FQ,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .actividades-xuk,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .comida-WRU,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .hospedaje-f3U,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .radio-Kr6,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .ubicacion-personalizada-r5L,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .mejor-calificados-ZEe,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .con-contacto-gKG,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .abierto-ahora-QFG,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .sub-catgoria-j2e {
+      font-size: 0.6rem;
+    }
+
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv {margin-top: 1rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL {margin-top: 1rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .eai-BTk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .personaliza-tus-resultados-con-nuestros-filtros-QFx {font-size: 0.6rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .personaliza-tus-resultados-con-nuestros-filtros-QFx {margin-top: 2.5rem;}
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi {height: 18rem; padding-top: 3rem; padding-left: 1rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve {height: 18rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS {height: 18rem; margin-left: 1rem;}
+
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .busquedas-pTQ {
+    font-size: 0.6rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn .vector-gMC {
+    width: 1rem;
+    height: 1rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN {
+    height: 3rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-187-qrN .search-Ykn {
+    margin-right: 0.3rem;
+    padding: 0.3rem;}
+
+
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC {height: 0.6rem;}
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .vector-Ywp {
+      width: 0.3rem;
+      height: 0.3rem;
+    }
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .category-rZC .auto-group-1c1u-UqU {
+      width: 0.6rem;
+      height: 0.3rem;
+    }
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .basicos-6Mk,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .turistico-2FQ,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .actividades-xuk,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .comida-WRU,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL .hospedaje-f3U,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .radio-Kr6,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .ubicacion-personalizada-r5L,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .mejor-calificados-ZEe,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .con-contacto-gKG,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .abierto-ahora-QFG,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv .sub-catgoria-j2e {
+      font-size: 0.55rem;
+    }
+
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-1rxa-KNv {margin-top: 1rem; width: 100%;}
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ck1t-upS .frame-186-3ve .frame-188-5Qi .auto-group-gsne-VjL {margin-top: 1rem; width: 100%;}
+}
+
+
+
+
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze {
+  margin-right: 20%;
+  width: 100%;
+  height: 50rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU {
+  box-sizing: border-box;
+  padding:10% 20% 10% 20%;
+  width: 100%;
+  height: 50rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  background-color: #003566;
+}
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN {
+  width: 80%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk {
+  margin-right: 10%;
+  margin-top: 3rem;
+  box-sizing: border-box;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-W3x.png');
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk .vector-c1t {
+  width: 7rem;
+  height: 7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .crea-y-gestiona-tus-planes-de-viaje-YRL {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 {
+  width: 80%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N {
+  box-sizing: border-box;
+  margin-right: 10%;
+  margin-top: 3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-tzS.png');
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N .vector-vwg {
+  width: 7rem;
+  height: 7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .agrega-nuevas-visitas-sc2 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 {
+  width: 80%;
+  height: 10rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 {
+  box-sizing: border-box;
+  margin-right: 10%;
+  margin-top: 3rem;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/vector-dxJ.png');
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 .vector-4wQ {
+  width: 7rem;
+  height: 7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .programa-tu-itinerario-cT8 {
+  text-align: center;
+  font-size: 3rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz {
+  margin-left: 80%;
+  box-sizing: border-box;
+  width: 28%;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #ffc300;
+  border-radius: 2rem 10rem 10rem 2rem;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .planes-de-viaje-kxe {
+  width: 70%;
+  height: 10rem;
+  position: absolute;
+  left: 0;
+  text-align: center;
+  font-size:3rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  margin-top: 3rem;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .group-1Nn {
+  width: 10rem;
+  height: 10rem;
+  margin-left: 65%;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+@media (max-width: 1800px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz  {
+    height: 9rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .planes-de-viaje-kxe {
+    font-size: 2rem;
+    margin-top: 6rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .group-1Nn {
+    width: 8rem;
+    height: 8rem;}
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 {
+    width: 70%;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 {
+    margin-right: 5%;
+    margin-top: 4rem;
+  }
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk .vector-c1t,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N .vector-vwg,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 .vector-4wQ {
+    height: 5rem;
+    width: 5rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .crea-y-gestiona-tus-planes-de-viaje-YRL,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .agrega-nuevas-visitas-sc2,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .programa-tu-itinerario-cT8 {
+    font-size: 2.5rem;
+  }
+
+}
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz  {
+    height: 7rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .planes-de-viaje-kxe {
+    font-size: 1.8rem;
+    margin-top: 3rem;
+    height: 7rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .group-1Nn {
+    width: 6rem;
+    height: 6rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU{
+    height: 40rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze {
+    height: 40rem;
+  }
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 {
+    width: 65%;
+    height: 5rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 {
+    margin-top: 0rem;
+  }
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk .vector-c1t,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N .vector-vwg,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 .vector-4wQ {
+    height: 4rem;
+    width: 4rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .crea-y-gestiona-tus-planes-de-viaje-YRL,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .agrega-nuevas-visitas-sc2,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .programa-tu-itinerario-cT8 {
+    font-size: 1.8rem;
+  }
+
+}
+
+@media (max-width: 991px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz  {
+    height: 5rem;
+    }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .planes-de-viaje-kxe {
+    font-size: 1.3rem;
+    margin-top: 4rem;
+    height: 7rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .group-1Nn {
+    width: 5rem;
+    height: 5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU{
+    height: 32rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze {
+    height: 32rem;
+  }
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 {
+    width: 60%;
+    height: 5rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 {
+    margin-top: 1rem;
+  }
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk .vector-c1t,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N .vector-vwg,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 .vector-4wQ {
+    height: 3rem;
+    width: 3rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .crea-y-gestiona-tus-planes-de-viaje-YRL,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .agrega-nuevas-visitas-sc2,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .programa-tu-itinerario-cT8 {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz  {
+    height: 4rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .planes-de-viaje-kxe {
+    font-size: 0.9rem;
+    margin-top: 5.5rem;
+    height: 7rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .group-1Nn {
+    width: 3.3rem;
+    height: 3.3rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU{
+    height: 20rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze {
+    height: 20rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 {
+    width: 50%;
+    height: 5rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 {
+    margin-top: 1rem;
+    margin-right: 15%;
+  }
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk .vector-c1t,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N .vector-vwg,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 .vector-4wQ {
+    height: 2.5rem;
+    width: 2.5rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .crea-y-gestiona-tus-planes-de-viaje-YRL,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .agrega-nuevas-visitas-sc2,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .programa-tu-itinerario-cT8 {
+    font-size: 1.2rem;
+  }
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz  {
+    height: 3rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .planes-de-viaje-kxe {
+    font-size: 0.6rem;
+    margin-top: 6.2rem;
+    height: 7rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-190-Xpz .group-1Nn {
+    width: 2.4rem;
+    height: 2.4rem;
+    margin-right: 3.5rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU{
+    height: 18rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze {
+    height: 18rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN, 
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 {
+    width: 50%;
+    height: 4rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 {
+    margin-top: 1rem;
+    margin-right: 15%;
+  }
+
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .library-add-5Xk .vector-c1t,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .add-location-o6N .vector-vwg,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .date-range-w66 .vector-4wQ {
+    height: 1.8rem;
+    width: 1.8rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-ogxn-kkN .crea-y-gestiona-tus-planes-de-viaje-YRL,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-9dxj-fF4 .agrega-nuevas-visitas-sc2,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-bp9u-uze .frame-189-TFU .auto-group-tace-bY2 .programa-tu-itinerario-cT8 {
+    font-size: 0.8rem;
+  }
+}
+
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg {
+  margin: 0rem 0rem 8rem 8rem;
+  width: 100%;
+  height: 50rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx {
+  box-sizing: border-box;
+  padding-top: 10rem;
+  width: 100%;
+  height: 50rem;
+  position: absolute;
+  left: 7%;
+  top: 0;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #e7e7e7;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 5%;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .obtn-nuevas-sugerencias-y-recomendaciones-de-lugares-en-base-a-xhL {
+  margin: 0rem 0rem 8rem 10%;
+  max-width: 100%;
+  text-align: center;
+  font-size: 2.5rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk {
+  width: 80%;
+  height: 15rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-shrink: 0;
+}
+
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .favorite-AYW  .vector-6SA {
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .thumbs-up-down-2qc .vector-Pw4 {
+  width: 8rem;
+  height: 8rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-favoritos-HmY {
+  text-align: center;
+  font-size: 2.7rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-calificaciones-d4i {
+  text-align: center;
+  font-size: 2.7rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #005fb8;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp {
+  box-sizing: border-box;
+  width: 28%;
+  height: 12rem;
+  position: absolute;
+  left: 0;
+  top: 8.8rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  background-color: #003566;
+  border-radius: 10rem 2rem 2rem 10rem;
+
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .verified-Fbt {
+  margin-left: 5%;
+  margin-right: 5%;
+  width: 7rem;
+  height: 7rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .recomendados-C1L {
+  margin: 0;
+  text-align: center;
+  font-size: 2.7rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+@media (max-width: 1800px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp {
+    height: 9rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .verified-Fbt{
+    width: 5rem;
+    height: 5rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .recomendados-C1L{
+    font-size: 2rem;
+    margin-top: 0rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .obtn-nuevas-sugerencias-y-recomendaciones-de-lugares-en-base-a-xhL {font-size: 2.2rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk {width: 100%;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .thumbs-up-down-2qc .vector-Pw4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .favorite-AYW  .vector-6SA {height: 6.5rem; width: 6.5rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-favoritos-HmY,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-calificaciones-d4i {font-size: 2.2rem;}
+
+
+}
+
+@media (max-width: 1280px) {
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp {
+      height: 7rem;}
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .verified-Fbt{
+      width: 4rem;
+      height: 4rem;
+    }
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .recomendados-C1L{
+      font-size: 1.5rem;
+      margin-top: 0rem;}
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg {height: 40rem;}
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx {height: 40rem;}
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .obtn-nuevas-sugerencias-y-recomendaciones-de-lugares-en-base-a-xhL {font-size: 1.8rem;}
+
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .thumbs-up-down-2qc .vector-Pw4,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .favorite-AYW  .vector-6SA {height: 6rem; width: 6rem;}
+  
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-favoritos-HmY,
+    .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-calificaciones-d4i {font-size: 1.8rem;}
+}
+
+@media (max-width: 991px) {
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp {
+    height: 5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .verified-Fbt{
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .recomendados-C1L{
+    font-size: 1rem;
+    margin-top: 0rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg {height: 32rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx {height: 32rem;
+  padding-top: 7rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk {height: 10rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .obtn-nuevas-sugerencias-y-recomendaciones-de-lugares-en-base-a-xhL {font-size: 1.3rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .thumbs-up-down-2qc .vector-Pw4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .favorite-AYW  .vector-6SA {height: 5rem; width: 5rem;}
+  
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-favoritos-HmY,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-calificaciones-d4i {font-size: 1.3rem;}
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp {
+    height: 4rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .verified-Fbt{
+    width: 2.2rem;
+    height: 2.2rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .recomendados-C1L{
+    font-size: 0.6rem;
+    margin-top: 0rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg {height: 20rem; margin-bottom: 3.5rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx {height: 20rem;
+  padding-top: 3.5rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk {height: 2rem; width: 80%;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .obtn-nuevas-sugerencias-y-recomendaciones-de-lugares-en-base-a-xhL {font-size: 0.8rem; margin-bottom: 6rem; margin-left: 0rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .thumbs-up-down-2qc .vector-Pw4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .favorite-AYW  .vector-6SA {height: 3rem; width: 3rem;}
+  
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-favoritos-HmY,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-calificaciones-d4i {font-size: 0.8rem;}
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp {
+    height: 3rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .verified-Fbt{
+    width: 1.7rem;
+    height: 1.7rem;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-192-Ljp .recomendados-C1L{
+    font-size: 0.45rem;
+    margin-top: 0rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg {height: 18rem; margin-left: 1rem;}
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx {
+  height: 18rem; padding-top: 3rem; padding-left: 1rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk {height: 2rem; width: 80%; margin-left: 4rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .obtn-nuevas-sugerencias-y-recomendaciones-de-lugares-en-base-a-xhL {font-size: 0.7rem; margin-bottom: 6rem; margin-left: 0rem;}
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .thumbs-up-down-2qc .vector-Pw4,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .favorite-AYW  .vector-6SA {height: 2rem; width: 2rem;}
+  
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-favoritos-HmY,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-eutk-jZg .frame-191-4bx .auto-group-xzej-Euk .contIconText .tus-calificaciones-d4i {font-size: 0.6rem;}
+}
+
+
+
+
+
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N {
+  margin: 0rem 0rem 0rem 0rem;
+  width: 100%;
+  height: 25rem;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car {
+  box-sizing: border-box;
+  width: 20%;
+  padding:2%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #8800ff;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .nosotros-kBG {
+  margin: 2rem 0rem 2rem 0rem;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .el-equipo-de-trabajo-detras-de-clevertrip-dispuestos-a-ofrecer-el-mejor-servicio-GfQ {
+  max-width: 25.3rem;
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-wWe {
+  box-sizing: border-box;
+  width: 20%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-wWe .gustavo-hernndez-wQA {
+  font-size: 1.3rem;
+  margin: auto;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-195-Ffk {
+  box-sizing: border-box;
+  width: 20%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-195-Ffk .inti-martnez-r9k {
+  font-size: 1.3rem;
+  margin: auto;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-mGi {
+  box-sizing: border-box;
+  width: 20%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-mGi .sal-torres-NGW {
+  font-size: 1.3rem;
+  margin: auto;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+@media (max-width: 1800px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N {
+    height: 20rem;
+  }
+}
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N {
+    height: 15rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .nosotros-kBG {
+    font-size: 1.7rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+  
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .el-equipo-de-trabajo-detras-de-clevertrip-dispuestos-a-ofrecer-el-mejor-servicio-GfQ {
+    font-size: 1rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-wWe .gustavo-hernndez-wQA,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-195-Ffk .inti-martnez-r9k,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-mGi .sal-torres-NGW {
+    font-size: 1.1rem;
+  }
+}
+
+
+@media (max-width: 991px) {
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N {
+    height: 13rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .nosotros-kBG {
+    font-size: 1.2rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+  
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .el-equipo-de-trabajo-detras-de-clevertrip-dispuestos-a-ofrecer-el-mejor-servicio-GfQ {
+    font-size: 0.8rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-wWe .gustavo-hernndez-wQA,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-195-Ffk .inti-martnez-r9k,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-mGi .sal-torres-NGW {
+    font-size: 0.8rem;
+  }
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .auto-group-ll5c-nUv {
+    height: 1650px;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N {
+    flex-wrap: wrap;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-wWe,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-195-Ffk,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-mGi {
+    margin-bottom: 2rem;
+    width: 40%;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .nosotros-kBG {
+    font-size: 1.3rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+  
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .el-equipo-de-trabajo-detras-de-clevertrip-dispuestos-a-ofrecer-el-mejor-servicio-GfQ {
+    font-size: 0.9rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-wWe .gustavo-hernndez-wQA,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-195-Ffk .inti-martnez-r9k,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-mGi .sal-torres-NGW {
+    font-size: 1rem;
+  }
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .auto-group-ll5c-nUv {
+    height: 1450px;
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N {
+    height: 9rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .nosotros-kBG {
+    font-size: 1.1rem;
+    margin-top: 0.8rem;
+    margin-bottom: 0.8rem;
+  
+  }
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-196-car .el-equipo-de-trabajo-detras-de-clevertrip-dispuestos-a-ofrecer-el-mejor-servicio-GfQ {
+    font-size: 0.7rem;
+  }
+
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-wWe .gustavo-hernndez-wQA,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-195-Ffk .inti-martnez-r9k,
+  .landingpage-xwG .auto-group-ll5c-nUv .auto-group-ybe6-J4N .frame-194-mGi .sal-torres-NGW {
+    font-size: 0.7rem;
+  }
+}
+
+
+.landingpage-xwG .frame-85-UKY {
+  box-sizing: border-box;
+  height: 4rem;
+  padding: 1rem 2rem 1rem 1rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #e6e6e6;
+  flex-shrink: 0;
+  justify-content: flex-end;
+}
+.landingpage-xwG .frame-85-UKY .logofinal-3-1aN {
+  margin-right: 1.4956rem;
+  width: 1.5rem;
+  height: 2rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-85-UKY .clevertrip-MPL {
+  margin-bottom: 0.1rem;
+  text-align: center;
+  font-size: 0.8rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+
+
+
+.landingpage-xwG .frame-197-s6n {
+  box-sizing: border-box;
+  padding: 2rem 5% 2rem 5%;
+  width: 100%;
+  height: 20rem;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: #c1c1c1;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-197-s6n .logofinal-5-mT4 {
+  margin: 0rem 5rem 0rem 0rem;
+  width: 7.8rem;
+  height: 9.8rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+  height: 10rem;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .contacto-R1p {
+  margin-bottom: 2.5rem;
+  font-size: 2.8rem;
+  font-weight: 200;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .facebook-gyL {
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .email-qLS {
+  width: 3.5rem;
+  height: 3.5rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-197-s6n .twitterx-BQJ {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.landingpage-xwG .frame-197-s6n .instagram-7Yr {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+
+@media (max-width: 1280px) {
+  .landingpage-xwG .frame-197-s6n .logofinal-5-mT4 { width: 7rem; height: 9rem;}
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .contacto-R1p {font-size: 2.2rem;}
+
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .facebook-gyL,
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .email-qLS {width: 3rem; height: 3rem;}
+  .landingpage-xwG .frame-197-s6n .twitterx-BQJ,
+  .landingpage-xwG .frame-197-s6n .instagram-7Yr {width: 2.2rem; height: 2.2rem;}
+}
+
+@media (max-width: 991px) {
+  .landingpage-xwG .frame-197-s6n .logofinal-5-mT4 { width: 6rem; height: 8.5rem;}
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .contacto-R1p {font-size: 1.8rem;}
+
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .facebook-gyL,
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .email-qLS {width: 2.5rem; height: 2.5rem;}
+  .landingpage-xwG .frame-197-s6n .twitterx-BQJ,
+  .landingpage-xwG .frame-197-s6n .instagram-7Yr {width: 2rem; height: 2rem;}
+}
+
+@media (max-width: 767px) {
+  .landingpage-xwG .frame-197-s6n .logofinal-5-mT4 { width: 6rem; height: 7.5rem;}
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .contacto-R1p {font-size: 1.8rem;}
+
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .facebook-gyL,
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .email-qLS {width: 1.7rem; height: 1.7rem;}
+  .landingpage-xwG .frame-197-s6n .twitterx-BQJ,
+  .landingpage-xwG .frame-197-s6n .instagram-7Yr {width: 1.3rem; height: 1.3rem;}
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn {width: 40%;}
+  .landingpage-xwG .frame-197-s6n .logofinal-5-mT4 {margin: 0rem 3rem 0rem 2rem;}
+}
+
+@media (max-width: 478px) {
+  .landingpage-xwG .frame-197-s6n .logofinal-5-mT4 { width: 5rem; height: 6rem;}
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .contacto-R1p {font-size: 1.7rem;}
+
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .facebook-gyL,
+  .landingpage-xwG .frame-197-s6n .auto-group-by5l-tGn .auto-group-huun-Z82 .email-qLS {width: 1.5rem; height: 1.5rem;}
+  .landingpage-xwG .frame-197-s6n .twitterx-BQJ,
+  .landingpage-xwG .frame-197-s6n .instagram-7Yr {width: 1.1rem; height: 1.1rem;}
+}
+
+
+
+@-webkit-keyframes fade-in-bottom {
+  0% {
+    -webkit-transform: translateY(50px);
+            transform: translateY(50px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    opacity: 1;
+  }
+}
+@keyframes fade-in-bottom {
+  0% {
+    -webkit-transform: translateY(50px);
+            transform: translateY(50px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@-webkit-keyframes puff-in-center {
+  0% {
+    -webkit-transform: scale(2);
+            transform: scale(2);
+    -webkit-filter: blur(4px);
+            filter: blur(4px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+    opacity: 1;
+  }
+}
+@keyframes puff-in-center {
+  0% {
+    -webkit-transform: scale(2);
+            transform: scale(2);
+    -webkit-filter: blur(4px);
+            filter: blur(4px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+    opacity: 1;
+  }
+}
