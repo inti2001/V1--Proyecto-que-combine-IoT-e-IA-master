@@ -1,4 +1,4 @@
-# V1: Proyecto que combine IoT (Internet de las Cosas) e IA (Inteligencia Artificial)
+# V2: Proyecto que combine IoT (Internet de las Cosas) e IA (Inteligencia Artificial)
 
 Sistema para el control inteligente de lamparas led RGB. La interaccion se realiza por medio de un dial que presenta toda la gama de colores que resulta de la combinacion de diferentes intensidades de las luces Red, Blue, Green (RGB).
 
