@@ -20,6 +20,8 @@ Conectar la placa arduino al computador para comenzar la programacion para reali
 4. Almacenamiento de Datos
 Almacenar los perfiles de iluminacion de los usuarios en un servicio web de base de datos como firebase.
 
+Video producto:
+https://drive.google.com/file/d/1uVZPhAa7Zv7_NfLtrcLz4BwWqIkw6Ula/view
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
