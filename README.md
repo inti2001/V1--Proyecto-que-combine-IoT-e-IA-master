@@ -20,6 +20,15 @@ Conectar la placa arduino al computador para comenzar la programacion para reali
 4. Almacenamiento de Datos
 Almacenar los perfiles de iluminacion de los usuarios en un servicio web de base de datos como firebase.
 
+5. Desarrollo del Modelo de IA
+Sistema de IA que en base a los codigos de colores usados, crea perfiles de iluminacion en base a las preferencias del usuario, para tratar de generar ambientes a gusto de cada persona.
+
+6. Desarrollo de la Interfaz de Usuario
+Interfaz diseñada utilizando anularJS y codigo html y css buscando tener un estilo minimalista y limpio, acorde con el producto ofertado.
+
+7. Pruebas y Validación
+Realizar diferentes cambios de iluminacion comunicando la aplicacion con el modulo del arduino, haciendo que el led RGB cambie al color seleccionado.
+
 Deploy:
 https://smartlight-8694e.web.app/
 
