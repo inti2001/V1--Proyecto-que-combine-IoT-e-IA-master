@@ -20,6 +20,23 @@ Conectar la placa arduino al computador para comenzar la programacion para reali
 4. Almacenamiento de Datos
 Almacenar los perfiles de iluminacion de los usuarios en un servicio web de base de datos como firebase.
 
+Deploy:
+https://smartlight-8694e.web.app/
+
+Video del proyecto:
+https://drive.google.com/file/d/1uVZPhAa7Zv7_NfLtrcLz4BwWqIkw6Ula/view
+
+Fotos del proyecto:
+<img width="950" alt="image" src="https://github.com/inti2001/V1--Proyecto-que-combine-IoT-e-IA-master/assets/58715706/c07f1968-96d6-465b-90a6-33091bcb9bbd">
+<img width="950" alt="image" src="https://github.com/inti2001/V1--Proyecto-que-combine-IoT-e-IA-master/assets/58715706/32846fc5-abde-41f4-a5b9-270112ca06fc">
+<img width="952" alt="image" src="https://github.com/inti2001/V1--Proyecto-que-combine-IoT-e-IA-master/assets/58715706/ca2257c8-a408-491e-8ba0-fe800b77f009">
+
+<br>
+Circuito:
+<br>
+<img width="635" alt="image" src="https://github.com/inti2001/V1--Proyecto-que-combine-IoT-e-IA-master/assets/58715706/37555f0e-7c8c-4b0d-897c-9b4949ecd52f">
+<img width="486" alt="image" src="https://github.com/inti2001/V1--Proyecto-que-combine-IoT-e-IA-master/assets/58715706/4d9f1fe7-e20c-4186-b25e-0bf40257ec5c">
+<img width="392" alt="image" src="https://github.com/inti2001/V1--Proyecto-que-combine-IoT-e-IA-master/assets/58715706/2475e92b-77b3-4730-94c0-df78824f74be">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.2.
 
