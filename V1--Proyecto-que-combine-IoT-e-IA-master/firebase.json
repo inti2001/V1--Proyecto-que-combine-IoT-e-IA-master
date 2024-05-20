@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/proyecto-iot/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
